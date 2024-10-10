@@ -87,7 +87,7 @@ ul{
 
 }
 
-.section2{
+.part2{
 
     display: grid;
     justify-content: center;
@@ -123,21 +123,7 @@ ul{
 
 }
 
-.div1{
-
-    display: flex;
-    justify-content: space-between;
-    align-content: space-between;
-
-}
-
-#exp{
-
-    width: 50px;
-
-}
-
-.section3{
+.part3{
 
     margin-top: 300px;
     margin-bottom: 200px;
@@ -207,7 +193,7 @@ ul{
     background-color: rgb(255, 255, 255);
 }
 
-.menu2{
+.menu{
 
     display: flex;
     align-items: center;
@@ -217,13 +203,13 @@ ul{
     margin-bottom: 40px;
 }
 
-.menu6{
+.list{
     display: flex;
     flex-direction: column;
 
   }
 
-  .menu6 img{
+  .list img{
     margin-right: 20px;
     width: 40px;
   }
@@ -239,7 +225,7 @@ ul{
     width: 40px;
   }
 
-  .div3{
+  .imginf{
 
     display: flex;
     align-items: center;
