@@ -1,0 +1,233 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+
+body{
+
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+    background-image:url("Mi\ portafolio/Fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+header{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    opacity: 0.4;
+    height: 100px;
+    padding: 10px 50px;
+    margin-bottom: 200px;
+    top: 0;  
+
+}
+
+#logo{
+
+    width: 60px;
+    height: 60px;
+
+}
+
+ul{
+
+    display: flex;
+    list-style: none;
+    gap:40px
+
+}
+
+.Quien{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+
+.tex{
+
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+#Perfil{
+
+    border-radius: 50px;
+    width: 300px;
+    height: 300px;
+
+}
+
+.presentacion{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: space-around;
+    flex-wrap: wrap;
+    color: rgb(0, 0, 0);
+    margin-bottom: 250px;
+
+}
+
+.section2{
+
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: black;
+    opacity: 0.9;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.Experiencias{
+
+    display: flex;
+    flex-direction: column-reverse;
+    color: #ffffff;
+    margin-top: 40%;
+    margin-bottom: 300px;
+    gap: 40px;
+    
+}
+
+.skills{
+
+    font-size: 50px;
+    margin-top: 15%;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.div1{
+
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+
+}
+
+#exp{
+
+    width: 50px;
+
+}
+
+.section3{
+
+    margin-top: 300px;
+    margin-bottom: 200px;
+
+}
+
+.proy{
+
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 150px;
+    gap: 50px;
+
+}
+
+.proyectos{
+
+    font-size: 50px;
+    text-align: center;
+    color: #000000;
+
+}
+
+.p1{
+
+  text-align: center;
+
+}
+
+#fp{
+
+    width: 400px;
+
+}
+
+.cont{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    opacity: 0.9;
+    color: #ffffff;
+
+}
+
+.contac{
+
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 5%;
+    gap: 20px;
+
+}
+
+.tit{
+
+    text-align: center;
+
+}
+
+#pie{
+
+    width: 30px;
+    height: auto;
+
+}
+
+.linea{
+    height: 100px;
+    width: 2px;
+    background-color: rgb(255, 255, 255);
+}
+
+.menu2{
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    flex-direction: column;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.div3{
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
